@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>551B65A8-61BF-463C-ABFB-48699ED35316</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Automoose</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F9EF23D6-C081-4C3D-8928-A26C49E19A05</key>
+		<string>https://bitbucket.org/NSDSrinivas/automoose.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Automoose/Automoose.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F9EF23D6-C081-4C3D-8928-A26C49E19A05</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/NSDSrinivas/automoose.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F9EF23D6-C081-4C3D-8928-A26C49E19A05</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F9EF23D6-C081-4C3D-8928-A26C49E19A05</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Amoose</string>
+		</dict>
+	</array>
+</dict>
+</plist>
