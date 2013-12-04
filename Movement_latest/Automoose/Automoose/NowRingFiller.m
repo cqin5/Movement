@@ -9,7 +9,17 @@
 #import "NowRingFiller.h"
 #import "AMUtility.h"
 #import <QuartzCore/QuartzCore.h>
+
 @implementation NowRingFiller
+
+
+-(BOOL)application:(UIApplication *)application
+didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+    // start of your application:didFinishLaunchingWithOptions // ...
+    // The rest of your application:didFinishLaunchingWithOptions method// ...
+}
+
+
 
 - (id)initWithFrame:(CGRect)frame
 {

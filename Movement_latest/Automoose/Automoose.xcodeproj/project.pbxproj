@@ -2106,6 +2106,10 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Automoose/Automoose-Prefix.pch";
 				INFOPLIST_FILE = "Automoose/Automoose-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					/Users/qinchuhan/Downloads/TestFlightSDK2.0.2,
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "B707BBF2-86F1-45B7-8872-D0B98FC004AF";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "B707BBF2-86F1-45B7-8872-D0B98FC004AF";
@@ -2126,6 +2130,10 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Automoose/Automoose-Prefix.pch";
 				INFOPLIST_FILE = "Automoose/Automoose-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					/Users/qinchuhan/Downloads/TestFlightSDK2.0.2,
+				);
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "B707BBF2-86F1-45B7-8872-D0B98FC004AF";
@@ -2172,6 +2180,10 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Automoose/Automoose-Prefix.pch";
 				INFOPLIST_FILE = "Automoose/Automoose-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					/Users/qinchuhan/Downloads/TestFlightSDK2.0.2,
+				);
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "B707BBF2-86F1-45B7-8872-D0B98FC004AF";
