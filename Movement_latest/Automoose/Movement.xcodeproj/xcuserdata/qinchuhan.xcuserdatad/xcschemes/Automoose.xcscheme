@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "04F05DE5166A8255003703BA"
                BuildableName = "Automoose.app"
-               BlueprintName = "Automoose"
-               ReferencedContainer = "container:Automoose.xcodeproj">
+               BlueprintName = "Movement"
+               ReferencedContainer = "container:Movement.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -34,8 +34,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "04F05DE5166A8255003703BA"
             BuildableName = "Automoose.app"
-            BlueprintName = "Automoose"
-            ReferencedContainer = "container:Automoose.xcodeproj">
+            BlueprintName = "Movement"
+            ReferencedContainer = "container:Movement.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -53,8 +53,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "04F05DE5166A8255003703BA"
             BuildableName = "Automoose.app"
-            BlueprintName = "Automoose"
-            ReferencedContainer = "container:Automoose.xcodeproj">
+            BlueprintName = "Movement"
+            ReferencedContainer = "container:Movement.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -71,8 +71,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "04F05DE5166A8255003703BA"
             BuildableName = "Automoose.app"
-            BlueprintName = "Automoose"
-            ReferencedContainer = "container:Automoose.xcodeproj">
+            BlueprintName = "Movement"
+            ReferencedContainer = "container:Movement.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -61,7 +61,6 @@
 		04F05E2C166A82DF003703BA /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04F05E2B166A82DF003703BA /* MobileCoreServices.framework */; };
 		04F05E2E166A82EC003703BA /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04F05E2D166A82EC003703BA /* QuartzCore.framework */; };
 		04F05E30166A82F2003703BA /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04F05E2F166A82F2003703BA /* Security.framework */; };
-		04F05E32166A82F8003703BA /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04F05E31166A82F8003703BA /* StoreKit.framework */; };
 		04F05E34166A8302003703BA /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04F05E33166A8302003703BA /* SystemConfiguration.framework */; };
 		04F6762C166B5B5D00E8AE67 /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 04F6762B166B5B5D00E8AE67 /* Reachability.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		04F8CE7216AA6BE2002C5A6A /* AMProfileViewerCusotmObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 04F8CE7116AA6BE2002C5A6A /* AMProfileViewerCusotmObject.m */; };
@@ -404,14 +403,14 @@
 		04DF01761680C2F0004DE30F /* tick.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tick.png; path = Automoose/Images/tick.png; sourceTree = "<group>"; };
 		04EA22E3167F94680069AB2C /* AMEventObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AMEventObject.h; sourceTree = "<group>"; };
 		04EA22E4167F94680069AB2C /* AMEventObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AMEventObject.m; sourceTree = "<group>"; };
-		04F05DE6166A8255003703BA /* Automoose.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Automoose.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		04F05DE6166A8255003703BA /* Movement.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Movement.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04F05DEA166A8255003703BA /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		04F05DEC166A8255003703BA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		04F05DEE166A8255003703BA /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		04F05DF2166A8255003703BA /* Automoose-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Automoose-Info.plist"; sourceTree = "<group>"; };
+		04F05DF2166A8255003703BA /* Movement-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Movement-Info.plist"; sourceTree = "<group>"; };
 		04F05DF4166A8255003703BA /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		04F05DF6166A8255003703BA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		04F05DF8166A8255003703BA /* Automoose-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Automoose-Prefix.pch"; sourceTree = "<group>"; };
+		04F05DF8166A8255003703BA /* Movement-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Movement-Prefix.pch"; sourceTree = "<group>"; };
 		04F05DF9166A8255003703BA /* AMAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AMAppDelegate.h; sourceTree = "<group>"; };
 		04F05DFA166A8255003703BA /* AMAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AMAppDelegate.m; sourceTree = "<group>"; };
 		04F05DFC166A8256003703BA /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
@@ -432,7 +431,6 @@
 		04F05E2B166A82DF003703BA /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
 		04F05E2D166A82EC003703BA /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		04F05E2F166A82F2003703BA /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
-		04F05E31166A82F8003703BA /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
 		04F05E33166A8302003703BA /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
 		04F6762A166B5B5D00E8AE67 /* Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Reachability.h; sourceTree = "<group>"; };
 		04F6762B166B5B5D00E8AE67 /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
@@ -817,7 +815,6 @@
 				04F05E26166A82BC003703BA /* CoreLocation.framework in Frameworks */,
 				49626BF51675B72B005CDFD1 /* MapKit.framework in Frameworks */,
 				04F05E34166A8302003703BA /* SystemConfiguration.framework in Frameworks */,
-				04F05E32166A82F8003703BA /* StoreKit.framework in Frameworks */,
 				04F05E30166A82F2003703BA /* Security.framework in Frameworks */,
 				04F05E2C166A82DF003703BA /* MobileCoreServices.framework in Frameworks */,
 				04F05E2A166A82D0003703BA /* libz.1.1.3.dylib in Frameworks */,
@@ -1068,7 +1065,7 @@
 				ACDD53FC17C9D87C001722EE /* CoreTelephony.framework */,
 				AC0433081759D25B007AFB2C /* Icon@2x.png */,
 				AC0433061759D256007AFB2C /* Icon.png */,
-				04F05DF0166A8255003703BA /* Automoose */,
+				04F05DF0166A8255003703BA /* Movement */,
 				04F05DE9166A8255003703BA /* Frameworks */,
 				04F05DE7166A8255003703BA /* Products */,
 			);
@@ -1077,7 +1074,7 @@
 		04F05DE7166A8255003703BA /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				04F05DE6166A8255003703BA /* Automoose.app */,
+				04F05DE6166A8255003703BA /* Movement.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -1092,7 +1089,6 @@
 				ACC9C2C2175A9D4800D062C2 /* GHUnit.framework */,
 				49626BF41675B72B005CDFD1 /* MapKit.framework */,
 				04F05E33166A8302003703BA /* SystemConfiguration.framework */,
-				04F05E31166A82F8003703BA /* StoreKit.framework */,
 				04F05E2F166A82F2003703BA /* Security.framework */,
 				04F05E2D166A82EC003703BA /* QuartzCore.framework */,
 				04F05E2B166A82DF003703BA /* MobileCoreServices.framework */,
@@ -1112,7 +1108,7 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		04F05DF0166A8255003703BA /* Automoose */ = {
+		04F05DF0166A8255003703BA /* Movement */ = {
 			isa = PBXGroup;
 			children = (
 				04F05DF9166A8255003703BA /* AMAppDelegate.h */,
@@ -1131,6 +1127,7 @@
 				1CD487C016E3109100CA61ED /* Resources */,
 				04F05DF1166A8255003703BA /* Supporting Files */,
 			);
+			name = Movement;
 			path = Automoose;
 			sourceTree = "<group>";
 		};
@@ -1139,10 +1136,10 @@
 			children = (
 				ACDD53FE17C9D8D1001722EE /* Mixpanel */,
 				4969D82B16EDA29D009A144E /* Fonts */,
-				04F05DF2166A8255003703BA /* Automoose-Info.plist */,
+				04F05DF2166A8255003703BA /* Movement-Info.plist */,
 				04F05DF3166A8255003703BA /* InfoPlist.strings */,
 				04F05DF6166A8255003703BA /* main.m */,
-				04F05DF8166A8255003703BA /* Automoose-Prefix.pch */,
+				04F05DF8166A8255003703BA /* Movement-Prefix.pch */,
 				04F05DFC166A8256003703BA /* Default.png */,
 				04F05DFE166A8256003703BA /* Default@2x.png */,
 				04F05E00166A8256003703BA /* Default-568h@2x.png */,
@@ -1632,9 +1629,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		04F05DE5166A8255003703BA /* Automoose */ = {
+		04F05DE5166A8255003703BA /* Movement */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 04F05E18166A8256003703BA /* Build configuration list for PBXNativeTarget "Automoose" */;
+			buildConfigurationList = 04F05E18166A8256003703BA /* Build configuration list for PBXNativeTarget "Movement" */;
 			buildPhases = (
 				04F05DE2166A8255003703BA /* Sources */,
 				04F05DE3166A8255003703BA /* Frameworks */,
@@ -1644,9 +1641,9 @@
 			);
 			dependencies = (
 			);
-			name = Automoose;
+			name = Movement;
 			productName = Automoose;
-			productReference = 04F05DE6166A8255003703BA /* Automoose.app */;
+			productReference = 04F05DE6166A8255003703BA /* Movement.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -1658,8 +1655,18 @@
 				CLASSPREFIX = AM;
 				LastUpgradeCheck = 0450;
 				ORGANIZATIONNAME = Srinivas;
+				TargetAttributes = {
+					04F05DE5166A8255003703BA = {
+						DevelopmentTeam = MJS6LB37T9;
+						SystemCapabilities = {
+							com.apple.InAppPurchase = {
+								enabled = 0;
+							};
+						};
+					};
+				};
 			};
-			buildConfigurationList = 04F05DE0166A8255003703BA /* Build configuration list for PBXProject "Automoose" */;
+			buildConfigurationList = 04F05DE0166A8255003703BA /* Build configuration list for PBXProject "Movement" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -1671,7 +1678,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				04F05DE5166A8255003703BA /* Automoose */,
+				04F05DE5166A8255003703BA /* Movement */,
 			);
 		};
 /* End PBXProject section */
@@ -2096,23 +2103,25 @@
 		04F05E19166A8256003703BA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer: Chuhan Qin (J58827L6T6)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Chuhan Qin (J58827L6T6)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/..\"",
 					"\"$(SRCROOT)\"",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Automoose/Automoose-Prefix.pch";
-				INFOPLIST_FILE = "Automoose/Automoose-Info.plist";
+				GCC_PREFIX_HEADER = "Automoose/Movement-Prefix.pch";
+				INFOPLIST_FILE = "Automoose/Movement-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					/Users/qinchuhan/Downloads/TestFlightSDK2.0.2,
 				);
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "B707BBF2-86F1-45B7-8872-D0B98FC004AF";
+				PRODUCT_NAME = Movement;
+				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "B707BBF2-86F1-45B7-8872-D0B98FC004AF";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -2120,24 +2129,26 @@
 		04F05E1A166A8256003703BA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer: Chuhan Qin (J58827L6T6)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Chuhan Qin (J58827L6T6)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/..\"",
 					"\"$(SRCROOT)\"",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Automoose/Automoose-Prefix.pch";
-				INFOPLIST_FILE = "Automoose/Automoose-Info.plist";
+				GCC_PREFIX_HEADER = "Automoose/Movement-Prefix.pch";
+				INFOPLIST_FILE = "Automoose/Movement-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					/Users/qinchuhan/Downloads/TestFlightSDK2.0.2,
 				);
 				ONLY_ACTIVE_ARCH = YES;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "B707BBF2-86F1-45B7-8872-D0B98FC004AF";
+				PRODUCT_NAME = Movement;
+				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "B707BBF2-86F1-45B7-8872-D0B98FC004AF";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -2170,24 +2181,26 @@
 		AC67105617199CB1005E663E /* Release copy */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer: Chuhan Qin (J58827L6T6)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Chuhan Qin (J58827L6T6)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/..\"",
 					"\"$(SRCROOT)\"",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Automoose/Automoose-Prefix.pch";
-				INFOPLIST_FILE = "Automoose/Automoose-Info.plist";
+				GCC_PREFIX_HEADER = "Automoose/Movement-Prefix.pch";
+				INFOPLIST_FILE = "Automoose/Movement-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					/Users/qinchuhan/Downloads/TestFlightSDK2.0.2,
 				);
 				ONLY_ACTIVE_ARCH = YES;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "B707BBF2-86F1-45B7-8872-D0B98FC004AF";
+				PRODUCT_NAME = Movement;
+				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "B707BBF2-86F1-45B7-8872-D0B98FC004AF";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = "Release copy";
@@ -2195,7 +2208,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		04F05DE0166A8255003703BA /* Build configuration list for PBXProject "Automoose" */ = {
+		04F05DE0166A8255003703BA /* Build configuration list for PBXProject "Movement" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				04F05E16166A8256003703BA /* Debug */,
@@ -2205,7 +2218,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		04F05E18166A8256003703BA /* Build configuration list for PBXNativeTarget "Automoose" */ = {
+		04F05E18166A8256003703BA /* Build configuration list for PBXNativeTarget "Movement" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				04F05E19166A8256003703BA /* Debug */,
